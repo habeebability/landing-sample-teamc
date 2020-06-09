@@ -1,0 +1,328 @@
+/* body {
+  font-family: "Montserrat", sans-serif;
+  background: #f9f9f9;
+}
+
+div.explore {
+  width: 366px;
+  height: 50px;
+  left: 926px;
+  top: 2852px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 50px;
+  identical to box height, or 156%
+  text-align: center;
+  letter-spacing: 0.01em;
+  color: #232322;
+}
+
+div.preview {
+  width: 419px;
+  height: 280px;
+  left: 926px;
+  top: 2935px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 40px;
+  or 222%
+  letter-spacing: 0.01em;
+  color: #232322;
+}
+
+span.intro {
+  width: 372.45px;
+  height: 38.5px;
+  left: 80px;
+  top: 3713.1px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20.2105px;
+  line-height: 38px;
+  text-align: center;
+  letter-spacing: 0.1em;
+  color: #232322;
+}
+
+span.exec {
+  width: 372.45px;
+  height: 38.5px;
+  left: 534.26px;
+  top: 3713.1px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20.2105px;
+  line-height: 38px;
+  text-align: center;
+  letter-spacing: 0.1em;
+  color: #232322;
+}
+
+span.take {
+  width: 371.49px;
+  height: 38.5px;
+  left: 988.51px;
+  top: 3713.1px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20.2105px;
+  line-height: 38px;
+  /* identical to box height, or 190% */
+  text-align: center;
+  letter-spacing: 0.1em;
+  color: #232322;
+}
+
+span.enjoy {
+  width: 372.45px;
+  height: 53.89px;
+  left: 80px;
+  top: 3758.34px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16.3609px;
+  line-height: 27px;
+  /* or 165% */
+  text-align: center;
+  letter-spacing: 0.1em;
+  color: #232322;
+}
+
+span.get {
+  width: 372.45px;
+  height: 53.89px;
+  left: 534.26px;
+  top: 3758.34px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16.3609px;
+  line-height: 27px;
+  /* or 165% */
+  text-align: center;
+  letter-spacing: 0.1em;
+  color: #232322;
+}
+
+span.travel {
+  width: 371.49px;
+  height: 53.89px;
+  left: 988.51px;
+  top: 3758.34px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16.3609px;
+  line-height: 27px;
+  /* or 165% */
+  text-align: center;
+  letter-spacing: 0.1em;
+  color: #232322;
+}
+
+img.photo1 {
+  width: 321.5px;
+  height: 214.12px;
+  left: 161px;
+  top: 2815px;
+  background: url(../img/photo-1576504446184-d4ce8e6f2adf.png);
+}
+
+img.photo2 {
+  width: 321.5px;
+  height: 214.12px;
+  left: 489.93px;
+  top: 2815px;
+  background: url(../img/photo-1566073771259-6a8506099945.jpg);
+}
+
+img.photo3 {
+  width: 321.5px;
+  height: 214.12px;
+  left: 161px;
+  top: 3034.42px;
+  background: url(photo-1571896349842-33c89424de2d.jpg);
+}
+
+img.photo4 {
+  width: 321.5px;
+  height: 214.12px;
+  left: 489.93px;
+  top: 3033.96px;
+  background: url(../img/photo-1525683879097-8babce1c602a.jpg);
+}
+
+img.rom {
+  width: 372.13px;
+  height: 279.1px;
+  left: 80px;
+  top: 3412.83px;
+  background: url(../img/romantic.jpg);
+}
+
+img.exe {
+  width: 372.13px;
+  height: 279.1px;
+  left: 534.26px;
+  top: 3412.83px;
+  background: url(../img/executive.jpg);
+}
+
+img.limo {
+  width: 371.37px;
+  height: 279.1px;
+  left: 988.51px;
+  top: 3412.83px;
+  background: url(../img/limo.jpg);
+}
+
+img.arrowr {
+  width: 33.19px;
+  height: 33.19px;
+  left: 845.55px;
+  top: 3016.54px;
+  background: url(../img/icons8-expand-arrow-50.png);
+  transform: rotate(0deg);
+}
+
+img.arrowl {
+  width: 33.19px;
+  height: 33.19px;
+  left: 94.73px;
+  top: 3014.54px;
+  background: url(../img/icons8-expand-arrow-50.png);
+  transform: rotate(180deg);
+}
+
+img.ellipse3 {
+  width: 59px;
+  height: 59px;
+  left: 833px;
+  top: 3004px;
+  background: #ffffff;
+  border: 1px solid #232322;
+  box-sizing: border-box;
+}
+
+img.ellipse1 {
+  width: 59px;
+  height: 59px;
+  left: 80px;
+  top: 3002px;
+  background: #ffffff;
+  border: 1px solid #232322;
+  box-sizing: border-box;
+}
+
+div.rm1 {
+  width: 94.32px;
+  height: 29.83px;
+  left: 209.92px;
+  top: 3832.44px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12.5113px;
+  line-height: 30px;
+  /* identical to box height, or 239% */
+  text-align: center;
+  letter-spacing: 0.01em;
+  color: #232322;
+}
+
+div.rm2 {
+  width: 94.32px;
+  height: 29.83px;
+  left: 665.14px;
+  top: 3832.44px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12.5113px;
+  line-height: 30px;
+  /* identical to box height, or 239% */
+  text-align: center;
+  letter-spacing: 0.01em;
+  color: #232322;
+}
+
+div.rm3 {
+  width: 94.32px;
+  height: 29.83px;
+  left: 1117.47px;
+  top: 3832.44px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12.5113px;
+  line-height: 30px;
+  /* identical to box height, or 239% */
+  text-align: center;
+  letter-spacing: 0.01em;
+  color: #232322;
+}
+
+img.rect9 {
+  width: 147.25px;
+  height: 33.64px;
+  left: 192.6px;
+  top: 3831.48px;
+  background: #ffffff;
+  border: 1.4949px solid #eba12a;
+  box-sizing: border-box;
+  border-radius: 5.97962px;
+}
+
+img.rect53 {
+  width: 147.25px;
+  height: 33.64px;
+  left: 647.82px;
+  top: 3831.48px;
+  background: #ffffff;
+  border: 1.4949px solid #eba12a;
+  box-sizing: border-box;
+  border-radius: 5.97962px;
+}
+
+img.rect54 {
+  width: 147.25px;
+  height: 33.64px;
+  left: 1100.15px;
+  top: 3831.48px;
+  background: #ffffff;
+  border: 1.4949px solid #eba12a;
+  box-sizing: border-box;
+  border-radius: 5.97962px;
+}
+
+img.arrowd1 {
+  width: 16.44px;
+  height: 16.44px;
+  left: 1212.17px;
+  top: 3840.02px;
+  background: url(../img/imicons8-expand-arrow-50.png);
+}
+
+img.arrowd2 {
+  width: 16.44px;
+  height: 16.44px;
+  left: 759.83px;
+  top: 3840.02px;
+  background: url(../img/icons8-expand-arrow-50.png);
+}
+
+img.arrowd3 {
+  width: 16.44px;
+  height: 16.44px;
+  left: 1212.17px;
+  top: 3840.02px;
+  background: url(../img/icons8-expand-arrow-50.png);
+} */

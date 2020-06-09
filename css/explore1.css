@@ -1,0 +1,30 @@
+.explore-container {
+    width: 100vw;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    margin-top: 30px;
+}
+.gallery-wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cols {
+    flex: 0 0 50vw;
+    height: 50vw;
+  }
+
+.explore-description {
+    flex: 0 0 20vw;
+    height: 15vw;
+}
+
+.explore-paragraph {
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 40px;
+    letter-spacing: 0.01em;
+}
+
