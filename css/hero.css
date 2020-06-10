@@ -14,8 +14,8 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   place-items: center;
   position: relative;
 }
@@ -24,12 +24,12 @@
   content: "";
   position: absolute;
   -webkit-backdrop-filter: blur(2px);
-          backdrop-filter: blur(2px);
+  backdrop-filter: blur(2px);
   height: 100vh;
   width: 100vw;
   background-color: rgba(0, 0, 0, 0.1);
   -webkit-box-shadow: inset 0px 0px 400px #000, inset 0px 0px 400px #000;
-          box-shadow: inset 0px 0px 400px #000, inset 0px 0px 400px #000;
+  box-shadow: inset 0px 0px 400px #000, inset 0px 0px 400px #000;
 }
 
 .hero .content {
@@ -74,8 +74,8 @@
   .form {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     width: 100%;
     place-items: center;
   }
