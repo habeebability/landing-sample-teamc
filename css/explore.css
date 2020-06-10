@@ -63,7 +63,11 @@
   flex: 0 0 100%;
   margin-top: 70px;
 }
-
+@media (max-width: 600px) {
+  .cols {
+    max-width: 85%;
+  }
+}
 .explore-heading {
   font-family: "Montserrat";
   font-weight: 500;
@@ -94,9 +98,22 @@
   max-width: 350px;
   height: 400px;
 }
+@media (max-width: 600px) {
+  .explore-gal-2 {
+    height: auto;
+  }
+}
 .explore-button {
   text-align: center;
   border: 1px solid chocolate;
+  color: black;
+  padding: 2%;
+  display: inline-block;
+  border-radius: 5px;
+}
+.wing-ding{
+  display: inline-block;
+  margin: auto 0;
 }
 /* .button a {
   font-family: 'Montserrat';
